@@ -7,10 +7,13 @@ Abra o `index.html` com dois cliques. Não precisa de servidor, build nem intern
 
 ## Antes de colocar no ar — pendências
 
-1. **Depoimentos são fictícios.** Os três da seção "Quem já fez a festa com a gente"
-   foram escritos só para o layout não ficar vazio. **Troque por depoimentos reais**
-   antes de publicar. Avaliação inventada apresentada como real é publicidade
-   enganosa (CDC art. 37) e infração ao CONAR.
+1. **Depoimentos: seção desativada.** Existe uma seção "Quem já fez a festa com a
+   gente" pronta no `index.html`, mas **comentada** — não aparece no site. Os três
+   textos que estão lá são fictícios, escritos só para desenhar o layout.
+   Para ativar: troque pelos depoimentos reais e apague a linha de abertura e a de
+   fechamento do comentário que envolve a `<section id="depoimentos">`.
+   Não ative com os textos como estão — avaliação inventada apresentada como real é
+   publicidade enganosa (CDC art. 37) e infração ao CONAR.
 2. **Três respostas do FAQ** estão genéricas de propósito, porque eu não tenho
    a informação. Procure os comentários `<!-- SUBSTITUIR -->` no `index.html`:
    - cidades atendidas / raio / taxa de deslocamento
