@@ -29,7 +29,8 @@ Coloque as fotos na pasta `img/` com **exatamente** estes nomes, em `.jpg`.
 Cada prato que tiver foto passa a mostrar a foto; o que não tiver continua
 com a ilustração desenhada. Pode ir colocando aos poucos.
 
-Formato ideal: **quadrada** (ex.: 600×600), prato visto de cima, fundo claro.
+Formato ideal: **quadrada** (ex.: 600×600), prato visto de cima, fundo claro
+(o site é bordô escuro, então foto de fundo claro é o que destaca o prato).
 
 ### Fundo do topo da página
 - `img/hero.jpg` — foto larga do buffet montado (ex.: 1600×900)
