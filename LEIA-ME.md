@@ -43,24 +43,40 @@ Formato ideal: **quadrada** (ex.: 600×600), prato visto de cima, fundo claro.
 - `baiao-de-dois.jpg`
 - `feijao-tropeiro.jpg`
 - `farofa.jpg`
+- `pure.jpg`
+- `salada-tropical.jpg`
+- `salada-verde.jpg`
+- `salada-mista.jpg`
+- `salada-de-batata-com-maca.jpg`
 
 ### Proteínas
 - `bife-ao-molho-madeira.jpg`
+- `bife-a-role.jpg`
 - `lagarto-recheado.jpg`
 - `parmegiana-de-carne.jpg`
 - `estrogonofe-de-carne.jpg`
 - `escondidinho-de-carne-de-sol.jpg`
+- `calabresa-acebolada.jpg`
+- `feijoada.jpg`
 - `file-de-frango-ao-molho-branco.jpg`
+- `medalhao-de-frango.jpg`
 - `parmegiana-de-frango.jpg`
 - `fricasse-de-frango.jpg`
 - `peixada.jpg`
 - `camarao-ao-alho-e-oleo.jpg`
+- `camarao-internacional.jpg`
+- `risoto.jpg`
+- `macarronada-a-bolonhesa.jpg`
+- `macarronada-ao-molho-branco-com-camarao.jpg`
+- `lasanha.jpg`
+- `empadao.jpg`
 
 ### Sobremesas
 - `pudim.jpg`
 - `pave.jpg`
 - `torta-de-maracuja.jpg`
 - `delicia-de-abacaxi.jpg`
+- `taca-da-felicidade.jpg`
 - `sorvetes.jpg`
 
 ### Extras

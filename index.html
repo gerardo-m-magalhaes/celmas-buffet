@@ -740,7 +740,7 @@
     {
       id: "guarnicoes", pip: "Guarnições",
       titulo: "Comece pelas guarnições",
-      sub: "A base do prato. Escolha quantas quiser — normalmente 2 ou 3 já dão conta.",
+      sub: "A base do prato, com as saladas. Escolha quantas quiser — normalmente 3 ou 4 já dão conta.",
       itens: [
         { n: "Arroz branco",     i: "d-arroz",       f: "arroz-branco" },
         { n: "Arroz à grega",    i: "d-arroz-grega", f: "arroz-a-grega" },
@@ -749,26 +749,40 @@
         { n: "Batata recheada",  d: "frango com queijo ou carne", i: "d-gratin", f: "batata-recheada" },
         { n: "Baião de dois",    i: "d-feijao",      f: "baiao-de-dois" },
         { n: "Feijão tropeiro",  i: "d-feijao",      f: "feijao-tropeiro" },
-        { n: "Farofa",           i: "d-farofa",      f: "farofa" }
+        { n: "Farofa",           i: "d-farofa",      f: "farofa" },
+        { n: "Purê",             i: "d-cremoso",     f: "pure" },
+        { n: "Salada tropical",  i: "d-salada",      f: "salada-tropical" },
+        { n: "Salada verde",     i: "d-salada",      f: "salada-verde" },
+        { n: "Salada mista",     d: "brócolis, batata e cenoura", i: "d-salada", f: "salada-mista" },
+        { n: "Salada de batata com maçã", i: "d-salada", f: "salada-de-batata-com-maca" }
       ]
     },
     {
       id: "proteinas", pip: "Proteínas",
       titulo: "Agora as proteínas",
-      sub: "Os dez pratos mais pedidos entre carnes, frango e frutos do mar.",
+      sub: "Carnes, frango, massas e frutos do mar. Escolha quantas quiser.",
       itens: [
         { n: "Bife ao molho madeira",        i: "d-bife",     f: "bife-ao-molho-madeira" },
+        { n: "Bife à rolê",                  i: "d-bife",     f: "bife-a-role" },
         { n: "Lagarto recheado",             i: "d-lagarto",  f: "lagarto-recheado" },
         { n: "Parmegiana de carne",          i: "d-empanado", f: "parmegiana-de-carne" },
         { n: "Estrogonofe de carne",         i: "d-cremoso",  f: "estrogonofe-de-carne" },
         { n: "Escondidinho de carne de sol", i: "d-gratin",   f: "escondidinho-de-carne-de-sol" },
+        { n: "Calabresa acebolada",          i: "d-bife",     f: "calabresa-acebolada" },
+        { n: "Feijoada",                     i: "d-feijao",   f: "feijoada" },
         { n: "Filé de frango ao molho branco", i: "d-frango", f: "file-de-frango-ao-molho-branco" },
+        { n: "Medalhão de frango",           i: "d-frango",   f: "medalhao-de-frango" },
         { n: "Parmegiana de frango",         i: "d-empanado", f: "parmegiana-de-frango" },
         { n: "Fricassê de frango",           i: "d-gratin",   f: "fricasse-de-frango" },
         { n: "Peixada",                      i: "d-peixe",    f: "peixada" },
-        { n: "Camarão ao alho e óleo",       i: "d-camarao",  f: "camarao-ao-alho-e-oleo" }
-      ],
-      nota: "Tem mais no nosso cardápio — bife à rolê, calabresa acebolada, medalhão e risoto de frango, camarão internacional. É só pedir na conversa."
+        { n: "Camarão ao alho e óleo",       i: "d-camarao",  f: "camarao-ao-alho-e-oleo" },
+        { n: "Camarão internacional",        i: "d-camarao",  f: "camarao-internacional" },
+        { n: "Risoto", d: "de camarão ou de frango", i: "d-cremoso", f: "risoto" },
+        { n: "Macarronada à bolonhesa",      i: "d-massa",    f: "macarronada-a-bolonhesa" },
+        { n: "Macarronada ao molho branco",  d: "com camarão", i: "d-massa", f: "macarronada-ao-molho-branco-com-camarao" },
+        { n: "Lasanha", d: "de frango ou de carne", i: "d-massa", f: "lasanha" },
+        { n: "Empadão", d: "de frango ou de camarão", i: "d-gratin", f: "empadao" }
+      ]
     },
     {
       id: "sobremesas", pip: "Sobremesas",
@@ -779,6 +793,7 @@
         { n: "Pavê",               i: "d-pave",    f: "pave" },
         { n: "Torta de maracujá",  i: "d-torta",   f: "torta-de-maracuja" },
         { n: "Delícia de abacaxi", i: "d-torta",   f: "delicia-de-abacaxi" },
+        { n: "Taça da felicidade", i: "d-pave",    f: "taca-da-felicidade" },
         { n: "Sorvetes", d: "7 sabores", i: "d-sorvete", f: "sorvetes" }
       ],
       extras: [
