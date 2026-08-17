@@ -49,6 +49,7 @@ Formato ideal: **quadrada** (ex.: 600×600), prato visto de cima, fundo claro
 - `salada-verde.jpg`
 - `salada-mista.jpg`
 - `salada-de-batata-com-maca.jpg`
+- `salpicao.jpg`
 
 ### Proteínas
 - `bife-ao-molho-madeira.jpg`
